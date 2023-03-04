@@ -1,0 +1,2 @@
+D:\MyHack\cm-hook\build\cm-hook.dll
+D:\MyHack\cm-hook\build\cm-hook.pdb
